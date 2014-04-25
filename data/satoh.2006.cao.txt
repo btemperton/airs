@@ -1,0 +1,26 @@
+accession	gene	strain
+BAA21729	arAb	Pseudomonas sp. CA10
+CAA73203	OxoO	Pseudomonas putida
+CAE17671	CMO	Oryza sativa
+O22553	CMO	Beta vulgaris
+CAG69424	AntA	Acinetobacter sp. ADP1
+Q51601	CbdA	Burkholderia cepacia
+AAB09766	DntAc	Burkholderia sp. RASC
+NP_863072	NahAc	Pseudomonas putida
+BAC01052	BphA1	Comomonas testosteroni
+CAA56346	BphA1	Rhodococcus globerulus
+BAC46335	bll1070	Bradyrhizobium japonicum USDA 110
+CAA55400	PobA	Pseudomonas pseudoalcaligenes
+AB126597	CAO	Prochlorothrix hollandica
+BT002075	CAO	Arabidopsis thaliana
+AF284781	CAO	Oryza sativa
+CAE19267	CAOPMM0808	Prochlorococcus marinus MED4
+CAE20949	CAOPMT0774	Prochlorococcus marinus MIT9313
+AAP99934	CAOPro0890	Prochlorococcus marinus SS120
+BAC47655	VanA	Bradyrhizobium japonicum
+BAB75565	all3866	Anabaena sp. PCC 7120
+BAA18227	Sll1869	Synechocystis sp. PCC 6803
+NP_180055	TIC55	Arabidopsis thaliana
+CAE07374	SYNW0859	Synechococcussp. WH 8102
+CAC03538	LLS1-like	Arabidopsis thaliana
+AL050400	PaOLLS1 	Arabidopsis thaliana
